@@ -9,4 +9,4 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [LICENSE.md](./LICENSE.md) 
 
 The recommended practice to create a “blank” ST 428-7 DCDM Subtitle file (Minimal Timed Text XML Requirements).
 
-[GitHub issues](https://github.com/SMPTE/st429-20/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to [21dc-chair@smpte.org](mailto:21dc-chair@smpte.org).
+[GitHub issues](https://github.com/SMPTE/st429-20/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to [27cc-chair@smpte.org](mailto:27cc-chair@smpte.org).
