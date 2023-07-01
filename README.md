@@ -1,12 +1,17 @@
-# RP 428-22 1ED (1st edition)
-Public CD of [SMPTE RP 428-22 1ED](21DC-CD-RP-428-22-202X-1ED.pdf)
+# SMPTE _RP 428-22_ - _D-Cinema Distribution Master – Minimal Timed Text XML Requirements_
 
-This document is made available for a public review period ending no earlier than `2022-02-01`, and no later than `2022-06-01`.
+_This repository is public._ 
 
-Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
+
+## Reporting issues
+
+Please report issues at <https://github.com/SMPTE/rp428-22/issues> or at 27C Chairs <27c-chair@smpte.org>.
+
+## Contributing
+
+The draft standard is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/rp428-22-private>.
 
 ## Project details
 
 The recommended practice to create a “blank” ST 428-7 DCDM Subtitle file (Minimal Timed Text XML Requirements).
-
-[GitHub issues](https://github.com/SMPTE/st429-20/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to [27c-chair@smpte.org](mailto:27c-chair@smpte.org).
